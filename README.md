@@ -8,4 +8,7 @@ y parece que funciona.
 	
 	Esta es otra modificacion realizada por romanjl
 	el dia 15-10-2014.
+	Esta es la segunda modificacion del dia 15-10-2014
+	 realizada por jolu.
+	 
 	

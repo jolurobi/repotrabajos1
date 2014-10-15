@@ -5,3 +5,7 @@ Es por la mañana.
 	Esta es la segunda modificacion del 9 de octubre. Sigue siendo por la mañana
 y parece que funciona.
 	Y esta es la tercera modificacion del 9 de octubre por la mañana.
+	
+	Esta es otra modificacion realizada por romanjl
+	el dia 15-10-2014.
+	

@@ -12,3 +12,5 @@ y parece que funciona.
 	 realizada por jolu.
 	 
 	
+Esta es una modificacion realizada el dia 9-12-2015 por el usuario jolurobi
+a las 18:12. 

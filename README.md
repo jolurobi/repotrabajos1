@@ -20,3 +20,6 @@ a ver como va esto.
 
 Esta es otra modificacion realizada por jolurobi el dia 16-12-2015
 a las 16:40.
+
+Esta otra modificacion esta realizada por el usuario romanjl el dia 16-12-2015 
+a las 17:20.

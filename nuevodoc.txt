@@ -1,0 +1,9 @@
+Este es un doc creado por jolu el dia 04 de nov de 2017.
+Aqui estaria el codigo desarrollado
+en distintas lineas.
+
+Esta es la primera modificacion añadida por 
+jolu. Misma fecha.
+
+Esta es la segunda modificacion añadida en la misma fecha por el mismo
+uuario.

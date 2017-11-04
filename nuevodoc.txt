@@ -1,4 +1,4 @@
-Este es un doc creado por jolu el dia 04 de nov de 2017.
+﻿Este es un doc creado por jolu el dia 04 de nov de 2017.
 Aqui estaria el codigo desarrollado
 en distintas lineas.
 
@@ -10,3 +10,5 @@ uuario.
 
 Esta es una modificacion realizada por el usuario rom 
 en fecha 04 de noviembre de 2017.
+
+Esta es otra modificacion realizada por rom en la misma fecha

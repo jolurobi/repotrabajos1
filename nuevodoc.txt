@@ -11,4 +11,8 @@ uuario.
 Esta es una modificacion realizada por el usuario rom 
 en fecha 04 de noviembre de 2017.
 
-Esta es otra modificacion realizada por rom en la misma fecha
+Esta es otra modificacion realizada por rom en la misma fecha.
+
+Y esta es de nuevo una modificacion realizada por el usuario jolu en 
+la misma fecha.
+

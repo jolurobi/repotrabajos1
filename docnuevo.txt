@@ -1,2 +1,5 @@
 Este es un documento nuevo creado por jolurobi el dia 16 de diciembre de 2020.
 Vamos a ver como funciona esto.
+Esta modificacion esta siendo realizada por otro usuario, romanjl, con permisos como contribuyente en
+este proyecto, el dia 16 de 12 de 2020.
+

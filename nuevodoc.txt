@@ -19,3 +19,7 @@ la misma fecha.
 
 Esta es una nueva entrada para el documento creada el dia 27 de Nov de 2017.
 El usuario va a ser romanjl con permisos sobre el repositorio ajeno.
+
+Esta es una modificacion hecha el dia 22-11-2022
+El usuario va a ser romanjl.
+

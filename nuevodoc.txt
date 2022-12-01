@@ -23,3 +23,6 @@ El usuario va a ser romanjl con permisos sobre el repositorio ajeno.
 Esta es una modificacion hecha el dia 22-11-2022
 El usuario va a ser romanjl.
 
+Esta es una modificacion realizada el dia 1 de diciembre de 2022 
+a las 19:21 h pm por el usuario jose luis.
+
